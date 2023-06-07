@@ -24,3 +24,15 @@ Tilgangur Github síðunnar:
   - Ekki vera hrædd/ur við að tilkynna villur til okkar, vefsíðan okkar er svo stór 
   og það getur verið erfitt fyrir okkur að taka eftir öllu.
   Þú hjálpar mikið með því að tilkynna villur á síðunni.
+
+
+Það getur stundum verið erfitt fyrir suma að nota Github í fyrsta skipti.
+Endilega reyndu að prófa þig áfram undir "Discussions".
+Ef þú hefur hugmynd eða þarft að tilkynna villu á vefsíðunni en
+átt erfitt með að nota Github er hægt að senda á okkur email.
+
+Netfang reglunnar: [biskupsreglan@biskupsreglan.com](mailto:biskupsreglan@biskupsreglan.com)
+
+Netfang Matthíasar (Sá sem sér um vefsíðuna): [matthias@biskupsreglan.com](mailto:matthias@biskupsreglan.com)
+
+Netfang Trausta (Admin á github síðunni): [trausti@biskupsreglan.com](mailto:trausti@biskupsreglan.com)
