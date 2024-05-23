@@ -24,8 +24,12 @@ Biskupinn var líka þarna og heilsaði upp á okkur en sagði svo að hann þur
 Það var mikið útsýni og við sáum yfir allt Höfuðborgarsvæðið og meira segja meira, en það.
 
 
+<Grid>
+  <GridItem>
 ![Sund](/static/images/faerslur/annad/annad/PXL_20240523_093407172.jpg)
-![Sund](/static/images/faerslur/annad/annad/PXL_20240523_093431497.jpg)
+  </GridItem>
+  <GridItem>![Sund](/static/images/faerslur/annad/annad/PXL_20240523_093431497.jpg)</GridItem>
+</Grid>
 
 
 Við ætluðum að fá okkur ís, en komumst að því að ísbúðin myndi ekki opna fyrr en 11:30 sem var allt of seint fyrir okkur því við þurftum að fara
